@@ -3,5 +3,4 @@ Baris kedua dari CMD
 "ini baris ketiganya ni"
 "wow dah baris 4 nichhh"
 "baris kelima" 
-
 "woowww ini dah 6" 
